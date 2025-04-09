@@ -37,6 +37,9 @@ namespace ECommerce.OrderAPI.Migrations
                         .IsRequired()
                         .HasColumnType("text");
 
+                    b.Property<int>("ProductId")
+                        .HasColumnType("integer");
+
                     b.Property<decimal>("TotalAmount")
                         .HasColumnType("numeric");
 

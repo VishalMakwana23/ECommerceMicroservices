@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "GPNyOCaq5Ww=",
+  "dgSpecHash": "/HLamNV1axg=",
   "success": true,
   "projectFilePath": "D:\\.net - learning\\Microseervice\\ECommerce.Gateway\\ECommerce.Gateway.csproj",
   "expectedPackageFiles": [
@@ -20,6 +20,7 @@
     "C:\\Users\\makwa\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.3\\microsoft.entityframeworkcore.analyzers.9.0.3.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\microsoft.entityframeworkcore.design\\9.0.3\\microsoft.entityframeworkcore.design.9.0.3.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.3\\microsoft.entityframeworkcore.relational.9.0.3.nupkg.sha512",
+    "C:\\Users\\makwa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.3\\microsoft.extensions.caching.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.3\\microsoft.extensions.caching.memory.9.0.3.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.3\\microsoft.extensions.configuration.abstractions.9.0.3.nupkg.sha512",
@@ -30,8 +31,12 @@
     "C:\\Users\\makwa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.3\\microsoft.extensions.logging.abstractions.9.0.3.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\microsoft.extensions.options\\9.0.3\\microsoft.extensions.options.9.0.3.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.3\\microsoft.extensions.primitives.9.0.3.nupkg.sha512",
-    "C:\\Users\\makwa\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\makwa\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\mono.texttemplating\\3.0.0\\mono.texttemplating.3.0.0.nupkg.sha512",
+    "C:\\Users\\makwa\\.nuget\\packages\\swashbuckle.aspnetcore\\8.1.0\\swashbuckle.aspnetcore.8.1.0.nupkg.sha512",
+    "C:\\Users\\makwa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\8.1.0\\swashbuckle.aspnetcore.swagger.8.1.0.nupkg.sha512",
+    "C:\\Users\\makwa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\8.1.0\\swashbuckle.aspnetcore.swaggergen.8.1.0.nupkg.sha512",
+    "C:\\Users\\makwa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\8.1.0\\swashbuckle.aspnetcore.swaggerui.8.1.0.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\system.composition\\7.0.0\\system.composition.7.0.0.nupkg.sha512",
@@ -40,11 +45,13 @@
     "C:\\Users\\makwa\\.nuget\\packages\\system.composition.hosting\\7.0.0\\system.composition.hosting.7.0.0.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\system.composition.runtime\\7.0.0\\system.composition.runtime.7.0.0.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\system.composition.typedparts\\7.0.0\\system.composition.typedparts.7.0.0.nupkg.sha512",
+    "C:\\Users\\makwa\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\system.reflection.metadata\\7.0.0\\system.reflection.metadata.7.0.0.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\makwa\\.nuget\\packages\\system.text.json\\9.0.3\\system.text.json.9.0.3.nupkg.sha512",
-    "C:\\Users\\makwa\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\makwa\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\makwa\\.nuget\\packages\\yarp.reverseproxy\\2.3.0\\yarp.reverseproxy.2.3.0.nupkg.sha512"
   ],
   "logs": []
 }

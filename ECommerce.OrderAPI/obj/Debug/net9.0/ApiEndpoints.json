@@ -28,7 +28,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "createDto",
+        "Name": "createOrderDto",
         "Type": "ECommerce.OrderAPI.DTOs.CreateOrderDto",
         "IsRequired": true
       }

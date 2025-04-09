@@ -203,6 +203,10 @@
           "totalAmount": {
             "type": "number",
             "format": "double"
+          },
+          "productId": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false
@@ -222,9 +226,34 @@
             "type": "number",
             "format": "double"
           },
+          "productId": {
+            "type": "integer",
+            "format": "int32"
+          },
           "createdAt": {
             "type": "string",
             "format": "date-time"
+          },
+          "product": {
+            "$ref": "#/components/schemas/ProductDto"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProductDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
           }
         },
         "additionalProperties": false
