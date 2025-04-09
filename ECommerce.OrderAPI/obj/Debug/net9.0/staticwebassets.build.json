@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "oN7D91TtqNvwTE8ZVfv9GN0Iv0DnkVcg3UIRS3d87zk=",
+  "Source": "ECommerce.OrderAPI",
+  "BasePath": "_content/ECommerce.OrderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

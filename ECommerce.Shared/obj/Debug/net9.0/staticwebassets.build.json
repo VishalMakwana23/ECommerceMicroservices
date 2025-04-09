@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "cEhc7ClJfwBEwvAt6ipI72C86yIYU30TWSrqE548it0=",
+  "Source": "ECommerce.Shared",
+  "BasePath": "_content/ECommerce.Shared",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
