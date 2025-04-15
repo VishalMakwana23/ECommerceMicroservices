@@ -3,11 +3,13 @@ using ECommerce.OrderAPI.Data;
 using ECommerce.OrderAPI.DTOs;
 using ECommerce.OrderAPI.Models;
 using ECommerce.OrderAPI.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace ECommerce.OrderAPI.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class OrdersController : ControllerBase
